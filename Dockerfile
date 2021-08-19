@@ -1,4 +1,4 @@
-FROM mikefarah/yq
+FROM mikefarah/yq:latest
 
 FROM alpine:latest
 LABEL maintainer="Ross Bannerman <ross@bnnr.mn>"

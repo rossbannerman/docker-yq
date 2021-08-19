@@ -5,7 +5,7 @@
 
 
 ## Usage
-[yq](https://github.com/mikefarah/yq) in a container with git and SSH. For use in CI/CD pipelines
+[yq](https://github.com/mikefarah/yq) in a container with git and SSH
 
 ## Testing
 `docker run --name yq --rm -it rossbannerman/yq /bin/sh`
